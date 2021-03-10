@@ -1,0 +1,7 @@
+.AboutUs {
+  text-align: left;
+  pointer-events: none;
+  background-color: #282c34;
+  display: flex;
+  color: #61dafb;
+}
